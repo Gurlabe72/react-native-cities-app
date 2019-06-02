@@ -1,4 +1,4 @@
-import React from 'react';
+import React, { Component } from 'react';
 import {
     View, 
     Text,
@@ -7,7 +7,7 @@ import {
 
 export default class AddCity extends Component {
     render() {
-        retrun (
+        return (
             <View>
                 <Text> AddCity Component</Text>
             </View>
